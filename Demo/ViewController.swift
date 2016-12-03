@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  Demo
-//
-//  Created by isc on 12/2/16.
-//  Copyright © 2016 isc. All rights reserved.
-//
+
 
 import UIKit
 
